@@ -116,11 +116,11 @@ MAN = "countries/Manchukou.txt"
 #################################
 
 OGR	= "countries/O Germany.txt"
-OEN = "countries/O United Kingdom.txt"
+OEN = "countries/O GB.txt"
 OSW	= "countries/O Sweden.txt"
 OFR	= "countries/O France.txt"
 OHO	= "countries/O Holland.txt"
-OCZ	= "countries/O Czechoslovakia.txt"
+OCZ	= "countries/O Czech.txt"
 OPO	= "countries/O Poland.txt"
 OIT = "countries/O Italy.txt"
 ORO = "countries/O Romania.txt"
