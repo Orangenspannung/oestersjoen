@@ -1395,3 +1395,7 @@
  OGR_neutrality:0 "Germany"
  OPO_neutrality:0 "Poland"
  OSW_neutrality:0 "Sweden"
+ OIT_neutrality:0 "Italy"
+ OTU_neutrality:0 "Turkey"
+ OEN_neutrality:0 "England"
+ OFR_neutrality:0 "France"
