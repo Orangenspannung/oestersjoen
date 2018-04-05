@@ -114,7 +114,7 @@ MAN = "countries/Manchukou.txt"
 
 
 #################################
-
+# Europe
 OGR	= "countries/O Germany.txt"
 OEN = "countries/O GB.txt"
 OSW	= "countries/O Sweden.txt"
@@ -131,3 +131,15 @@ OGE = "countries/O Greece.txt"
 OHU = "countries/O Hungary.txt"
 OCR = "countries/O Croatia.txt"
 OMC = "countries/O Macedonia.txt"
+
+# Russia
+RUK	= "countries/R Ukraine.txt"
+RMO = "countries/R Moscow.txt"
+RNO = "countries/R Novgorod.txt"
+RKU = "countries/R Kuban.txt"
+RSI = "countries/R Sibiria.txt"
+RKA = "countries/R Kazakhstan.txt"
+RTU = "countries/R Turkmenistan.txt"
+RGE = "countries/R R Georgia.txt"
+RAR = "countries/R Armenia.txt"
+RAZ = "countries/R Azerbaijan.txt"

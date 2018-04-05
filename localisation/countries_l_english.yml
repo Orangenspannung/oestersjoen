@@ -1383,6 +1383,7 @@
 
 
  #######################################################################
+ # Europe:
  OHO_neutrality:0 "Holland"
  OCR_neutrality:0 "Croatia"
  OCZ_neutrality:0 "Czechland"
@@ -1399,3 +1400,15 @@
  OTU_neutrality:0 "Turkey"
  OEN_neutrality:0 "England"
  OFR_neutrality:0 "France"
+
+# Russia
+RAR_neutrality:0 "Armenia"
+RAZ_neutrality:0 "Azerbaijan"
+RGE_neutrality:0 "Georgia"
+RKA_neutrality:0 "Kazakhstan"
+RKU_neutrality:0 "Kuban"
+RMO_neutrality:0 "Moscow"
+RNO_neutrality:0 "Novgorod"
+RSI_neutrality:0 "Sibiria"
+RTU_neutrality:0 "Turkmenistan"
+RUK_neutrality:0 "Ukraine"
