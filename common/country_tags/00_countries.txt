@@ -143,3 +143,43 @@ RTU = "countries/R Turkmenistan.txt"
 RGE = "countries/R Georgia.txt"
 RAR = "countries/R Armenia.txt"
 RAZ = "countries/R Azerbaijan.txt"
+
+# America
+AAR ="countries/A Argentina.txt"
+ABO ="countries/A Bolivia.txt"
+ACA ="countries/A Canada.txt"
+ACS ="countries/A CSA.txt"
+AEC ="countries/A Ecuador.txt"
+AME ="countries/A Mexico.txt"
+ANE ="countries/A New England.txt"
+APE ="countries/A Peru.txt"
+AUA ="countries/A USA.txt"
+AVE ="countries/A Venezuela.txt"
+
+# Middle East
+MSA ="countries/M Saudi Arabia.txt"
+MYE ="countries/M Yemen.txt"
+MOM ="countries/M Oman.txt"
+
+# Africa
+AFE ="countries/Af Egypt.txt"
+AFT ="countries/Af Ethiopia.txt"
+AFL ="countries/Af Liberia.txt"
+AFS ="countries/Af South Africa.txt"
+
+# Asia
+ASA ="countries/As Afghanistan.txt"
+ASU ="countries/As Australia.txt"
+ASR ="countries/As British Raj.txt"
+ASC ="countries/As British South China.txt"
+ASB ="countries/As Butan.txt"
+ASI ="countries/As Iran.txt"
+ASJ ="countries/As Japan.txt"
+ASM ="countries/As Mongolia.txt"
+ASN ="countries/As Nepal.txt"
+ASZ ="countries/As New Zealand.txt"
+ASP ="countries/As Philippines.txt"
+ASQ ="countries/As Qing China.txt"
+ASS ="countries/As Siam.txt"
+ASK ="countries/As Sinkiang.txt"
+ASE ="countries/As Tibet.txt"
