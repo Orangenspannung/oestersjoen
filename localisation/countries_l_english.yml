@@ -1381,8 +1381,8 @@
 
 
 
-
  #######################################################################
+
  # Europe:
  OHO_neutrality:0 "Holland"
  OCR_neutrality:0 "Croatia"
@@ -1412,3 +1412,44 @@ RNO_neutrality:0 "Novgorod"
 RSI_neutrality:0 "Sibiria"
 RTU_neutrality:0 "Turkmenistan"
 RUK_neutrality:0 "Ukraine"
+
+
+# America
+AAR_neutrality:0  "Argentina"
+ABO_neutrality:0 "Bolivia"
+ACA_neutrality:0 "Canada"
+ACS_neutrality:0 "CSA"
+AEC_neutrality:0 "Ecuador"
+AME_neutrality:0 "Mexico"
+ANE_neutrality:0 "New England"
+APE_neutrality:0 "Peru"
+AUA_neutrality:0 "USA"
+AVE_neutrality:0 "Venezuela"
+
+# Middle East
+MSA_neutrality:0 "Saudi Arabia"
+MYE_neutrality:0 "Yemen"
+MOM_neutrality:0 "Oman"
+
+# Africa
+AFE_neutrality:0 "Egypt"
+AFT_neutrality:0 "Ethiopia"
+AFL_neutrality:0 "Liberia"
+AFS_neutrality:0 "South Africa"
+
+# Asia
+ASA_neutrality:0 "Afghanistan.txt"
+ASU_neutrality:0 "Australia.txt"
+ASR_neutrality:0 "British Raj.txt"
+ASC_neutrality:0 "British South China.txt"
+ASB_neutrality:0 "Butan.txt"
+ASI_neutrality:0 "Iran.txt"
+ASJ_neutrality:0 "Japan.txt"
+ASM_neutrality:0 "Mongolia.txt"
+ASN_neutrality:0 "Nepal.txt"
+ASZ_neutrality:0 "New Zealand.txt"
+ASP_neutrality:0 "Philippines.txt"
+ASQ_neutrality:0 "Qing China.txt"
+ASS_neutrality:0 "Siam.txt"
+ASK_neutrality:0 "Sinkiang.txt"
+ASE_neutrality:0 "Tibet.txt"
